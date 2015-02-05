@@ -1,0 +1,27 @@
+body{
+    background-color: darkred;
+    color: #fff;
+    text-align: center;
+}
+
+h1{
+    color: aqua
+}
+
+p{
+    font-size:  18px;
+    color: red;
+}
+
+body a:link{
+    color: crimson;
+}
+
+body img{
+    border: 6px solid aliceblue;
+    border-radius: 10px
+}
+
+
+
+
