@@ -1,2 +1,2 @@
 # bpmstudent.github.io
-Testing
+Small website for school work
